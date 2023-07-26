@@ -45,4 +45,4 @@ Here's a description of the project's functionality and key components:
    - Fonts and styling are applied to improve the appearance of the application.
    - The main window and additional windows are created using `Toplevel`.
 
-I was such a nice experience working on this, I was able to get hands on experience to implement GUI functionalities in python.
+It was such a nice experience working on this, I was able to get hands on experience to implement GUI functionalities in python.
